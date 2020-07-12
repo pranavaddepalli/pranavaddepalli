@@ -9,7 +9,7 @@
 # pystocks
 - project: "py-stocks"
   url: "https://pypi.org/project/py-stocks/"
-  description: "py-stocks is a module for retrieving real-time stock data, historical stock data, and stock technical indicators. py-stocks is a wrapper package aimed towards developers looking for a single package for collecting and using both historical and real-time data. It integrates the yfinance and stockqoutes modules as well as the capability to collect news articles directly from NASDAQ."
+  description: "py-stocks is a python module for retrieving real-time stock data, historical stock data, and stock technical indicators. py-stocks is a wrapper package aimed towards developers looking for a single package for collecting and using both historical and real-time data. It integrates the yfinance and stockqoutes modules as well as the capability to collect news articles directly from NASDAQ."
 
 # AOS warpage
 - project: "An investigation of infill process variables to reduce warpage in fused deposition modeling"
