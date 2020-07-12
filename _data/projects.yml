@@ -1,16 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# SPIDER
+- project: "SPIDER: Selective Plotting of Interconnected Data and Entity Relations"
+  url: https://arxiv.org/abs/2006.14416
+  description: "SPIDER is a web application that can be remotely-accessed via a web browser, and has three major components: (1) a <mark>Java</mark> API that reads documents, extracts entities and relationships using Stanford CoreNLP, (2) a <mark>Neo4j</mark> graph database that stores entities, relationships, and properties; (3) a <mark>JavaScript</mark>-based SigmaJS visualization tool for displaying the graph on the browser. SPIDER can scale document analysis to thousands of files for quick visualization, making the intelligence analysis process more efficient, and allowing military leadership quicker insights into a vast array of potentially-hidden knowledge."
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# pystocks
+- project: "py-stocks"
+  url: "https://pypi.org/project/py-stocks/"
+  description: "py-stocks is a module for retrieving real-time stock data, historical stock data, and stock technical indicators. py-stocks is a wrapper package aimed towards developers looking for a single package for collecting and using both historical and real-time data. It integrates the yfinance and stockqoutes modules as well as the capability to collect news articles directly from NASDAQ."
+
+# AOS warpage
+- project: "An investigation of infill process variables to reduce warpage in fused deposition modeling"
+  url: "https://drive.google.com/file/d/1xgFpv0FzKGzWrE8ysxl0vrTlmEcODwZb/view"
+  description: "I studied warpage, the distortion of parts in 3D printing, and attempted to find printing parameters that would reduce warpage. I built multiple mathematical models to analyze the warpage problem based on thermal isotropy and the Dynamic Time Warping algorithm."

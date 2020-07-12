@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Languages
+- skill: Languages
+  description: Java, Python, JavaScript, SQL, CQL, HTML/CSS
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# app frameworks
+- skill: Application Frameworks
+  description: Spring, Django, Node.js, Neo4j, Tomcat
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# ML
+- skill: Data Science Libraries
+  description: pandas, NumPy, SciPy, TensorFlow, Keras, scikit-learn, PyTorch
