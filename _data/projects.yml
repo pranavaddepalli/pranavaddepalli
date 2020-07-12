@@ -14,5 +14,6 @@
 # AOS warpage
 - project: "An investigation of infill process variables to reduce warpage in fused deposition modeling"
   role: Primary dEv
+  duration: 2020 - 2021
   url: "https://drive.google.com/file/d/1xgFpv0FzKGzWrE8ysxl0vrTlmEcODwZb/view"
   description: "I studied warpage, the distortion of parts in 3D printing, and attempted to find printing parameters that would reduce warpage. I built multiple mathematical models to analyze the warpage problem based on thermal isotropy and the Dynamic Time Warping algorithm."
