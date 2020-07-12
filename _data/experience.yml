@@ -1,0 +1,26 @@
+- layout: left
+  company: U.S. Army Corps of Engineers -- Geospatial Research Laboratory
+  link: https://www.erdc.usace.army.mil/Locations/GRL/
+  job_title: Data Science and Software Engineering Intern
+  dates: June 2019 - August 2019
+  description: | # this will include new lines to allow paragraphs
+    I held a lead role in the FOMAS (Foundations of Mission Analysis Storytelling) research team to build a production-level web application for military intelligence analytics. (Project SPIDER)
+    I integrated natural language processing, the Neo4j graph database, and the SigmaJS graph visualization library into a Java Spring project.
+
+- layout: Right
+  company: General Dynamics Information Technology and Sound Off
+  link: https://sound-off.com/
+  job_title: Volunteer Web Developer
+  dates: December 2018 - March 2019
+  description: | # this will include new lines to allow paragraphs
+    I helped develop a mobile application using technologies Swift, Cocoa Pods, and Microsoft Azure to help veterans with PTSD easily access mental health specialists.
+    We worked under the Agile Methodology with week-long sprints and daily stand-ups.
+
+- layout: Left
+  company: Virginia Summer Residential Governor's School for Math, Science, and Technology
+  link: http://www.doe.virginia.gov/instruction/governors_school_programs/summer_residential/
+  job_title: Computer Science Student
+  dates: July 2018
+  description: | # this will include new lines to allow paragraphs
+    I studied and researched computer science under Professor Elmer Hoeksema at the University of Lynchburg.
+    I was one of 17 students chosen by merit from Loudoun County.
